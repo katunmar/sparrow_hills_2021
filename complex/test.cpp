@@ -54,6 +54,7 @@ private:
 };
 
 int main() {
+    cout << "new code" << endl;
 
     return 0;
 }
